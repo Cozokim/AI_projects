@@ -6,7 +6,6 @@
 
 [Open Food Facts](https://world.openfoodfacts.org/) dataset, *made by everyone, for everyone*.
 
-:kiwi_fruit: :carrot: :cheese: :cut_of_meat: :milk_glass:
 
 # Criteria for qualifying healthy food 
 :green_salad: Is a green salad always healthy ?
