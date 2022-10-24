@@ -6,7 +6,6 @@ The goal of this project is to design the onboard **image segmentation** part of
 # :card_index_dividers: Dataset
 [Cityscapes Dataset Overview](https://www.cityscapes-dataset.com/dataset-overview/)
 
-<img src='/static\cityscapes_dataset.png'>
 
 # :scroll: Tasks
 - :heavy_check_mark: Structure the dataset into relevant directories (train, val, test);
