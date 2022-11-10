@@ -2,7 +2,7 @@
 The goal of this project is to design the onboard **image segmentation** part of a computer vision system for autonomous vehicles.
 
 
-<img src='/static\outputs\colorized_mask.png'>
+<img src='.\static\outputs\colorized_mask.png'>
 
 
 **Image segmentation** is the process of classifying each pixel in an image to a particular class (or label). It can be thought of as a classification problem per pixel, but it doesn't distinguish between different instances of the same object; for example, there could be multiple cars in the scene and all of them would have the same label.
