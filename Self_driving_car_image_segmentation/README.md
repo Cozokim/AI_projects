@@ -1,6 +1,10 @@
 # :dart: Image segmentation for autonomous vehicles
 The goal of this project is to design the onboard **image segmentation** part of a computer vision system for autonomous vehicles.
 
+
+<img src='/static\outputs\colorized_mask.png'>
+
+
 **Image segmentation** is the process of classifying each pixel in an image to a particular class (or label). It can be thought of as a classification problem per pixel, but it doesn't distinguish between different instances of the same object; for example, there could be multiple cars in the scene and all of them would have the same label.
 
 # :card_index_dividers: Dataset
@@ -18,6 +22,7 @@ The goal of this project is to design the onboard **image segmentation** part of
 
 # :computer: Dependencies
 - <code>pip install tensorflow opencv-python flask</code>
+
 
 # :pushpin: References 
 - [Official CityScapes Github - Marius Cordts](https://github.com/mcordts/cityscapesScripts) and its [labels' management](https://github.com/mcordts/cityscapesScripts/blob/master/cityscapesscripts/helpers/labels.py);
